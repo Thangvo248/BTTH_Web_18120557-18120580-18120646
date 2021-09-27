@@ -71,7 +71,7 @@ html{
     position: relative;
     margin-top: 64px;
     padding-top: 50%;
-    background: url(''./images/Background.jpg' top center / cover no-repeat ;
+    background: url('./images/Background.jpg') top center / cover no-repeat ;
 }
 
 #slider .text-slide{
